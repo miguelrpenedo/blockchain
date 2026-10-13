@@ -1,0 +1,11 @@
+Em anexo está a minha dissertação para o Mestrado de Gestão de Sistemas de Informação, a checklist do PRISMA 2020 e as referências utilizadas na pesquisa, com exceção da referencia "Artificial Intelligence, Machine Learning, Deep Learning, and Blockchain in Financial and Banking Services: A Comprehensive Review — Paramesha et al." - assume que já no documento da dissertação já foi extraído tudo o que era necessário dessa referência.
+
+Neste ponto assumo que o documento da dissertação está completo.
+Faz uma revisão de todo o documento da dissertação onde quero que analises o seguinte:
+1. Confirma que todo o texto está coerente com as referencias utilizadas e identifica incoerências
+2. Analisa que todo o texto está bem articulado e segue um bom fluxo. Procura-se rigor académico, por isso identifica frases/parágrafos que não estejam enquadrados com o resto do parágrafo/capitulo
+3. Detecta texto escrito por IA e reduz a sua possível detecção por mecanismos que procuram por padrões de escrita
+4. Confere que a bibliografia está documentada com rigor tendo em conta as referencias em anexo. Se faltar algum dado importante em alguma (data, autores, …) acrescenta
+5. Após todos os pontos acima estarem completos, edita e completa a checklist do PRISMA 2020, tendo em conta a nova versão.
+
+De modo a facilmente puder comparar a nova versão gerada com a original pretendo que cries um documento de auxilio onde identificas claramente o que foi alterado entre versões.
