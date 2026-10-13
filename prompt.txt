@@ -1,4 +1,4 @@
-Em anexo está a minha dissertação para o Mestrado de Gestão de Sistemas de Informação, a checklist do PRISMA 2020 e as referências utilizadas na pesquisa, com exceção da referencia "Artificial Intelligence, Machine Learning, Deep Learning, and Blockchain in Financial and Banking Services: A Comprehensive Review — Paramesha et al." - assume que já no documento da dissertação já foi extraído tudo o que era necessário dessa referência.
+Em anexo está a minha dissertação para o Mestrado de Gestão de Sistemas de Informação, a checklist do PRISMA 2020, a transcrição da entrevista realizada e as referências utilizadas na pesquisa, com exceção da referencia "Artificial Intelligence, Machine Learning, Deep Learning, and Blockchain in Financial and Banking Services: A Comprehensive Review — Paramesha et al." - assume que já no documento da dissertação já foi extraído tudo o que era necessário dessa referência.
 
 Neste ponto assumo que o documento da dissertação está completo.
 Faz uma revisão de todo o documento da dissertação onde quero que analises o seguinte:
